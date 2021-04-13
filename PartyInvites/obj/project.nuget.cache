@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b/gfW1Az1Bm4O6SleRjIiASXLl+qyS72qEcLOpGcFdnFoSmzxU5vzGUDgXiouanf4tl8QFIZa0UTypNFHug/kw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\david\\source\\MSSA\\ISTA 322\\Labs\\PartyInvites\\PartyInvites\\PartyInvites.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}
